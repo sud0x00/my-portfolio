@@ -1,0 +1,27 @@
+
+.blog-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 5rem;
+    text-align: center;
+  }
+  
+  .blog-page h1 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .blog-page p {
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+    margin-top: 1rem;
+    max-width: 60ch;
+  }
+ 
