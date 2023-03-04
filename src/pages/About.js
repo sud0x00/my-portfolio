@@ -98,7 +98,7 @@ const images = [
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 1 }}
         >
-          I'm a CS student with a keen interest in tech and math . I have experience with a wide range of technologies and I'm always eager to learn more. When I'm not coding, you can usually find me reading books or watching cinema. I occasionally playing videogames too !
+          I'm a CS student with a keen interest in tech and math . I have experience with a wide range of technologies and I'm always eager to learn more. When I'm not coding, you can usually find me reading books or watching cinema. I occasionally play videogames too !
         </motion.p>
         <motion.p
           initial={{ opacity: 0 }}
