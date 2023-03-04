@@ -7,7 +7,7 @@ import Blog from './pages/Blog';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="app">   
           <Routes>
             <Route path="/about" element={<About/>} />
